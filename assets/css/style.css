@@ -30,7 +30,7 @@
   padding-left: 20px;
 }
 .collapse ul li button {
-  background-color: #DA291C;
+  background-color: #009CA6;
   border: none;
   border-radius: 8px;
 }
@@ -71,23 +71,25 @@
   border-radius: 5px;
 }
 
-.contact {
-  margin-top: 50px;
-}
-.contact h1 {
+.sign {
   margin-left: 5rem;
+  font-size: 1.6rem;
+}
+
+.contact {
+  margin-top: 30px;
 }
 .contact button {
   margin-top: 1.9rem;
   background: #009CA6;
   font-weight: 600;
   width: 120px;
-  margin-left: 1rem;
+  margin-left: auto;
 }
 
 .about-us button {
   margin-top: 1.9rem;
-  background: #DA291C;
+  background: #009CA6;
   font-weight: 600;
   width: auto;
   margin-left: 1rem;
@@ -164,6 +166,11 @@ footer {
 footer h2 {
   font-size: 1rem;
   margin-top: 30px;
+  font-weight: 400;
+}
+footer h3 {
+  font-size: 1.1rem;
+  margin-top: 10px;
   font-weight: 400;
 }
 footer span {
