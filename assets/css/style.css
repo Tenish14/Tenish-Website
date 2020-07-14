@@ -1,0 +1,176 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.first {
+  background-color: #C82C1E;
+}
+.first i {
+  font-size: 1rem;
+  margin-right: 0.5rem;
+  margin-top: 3px;
+  color: #FFF;
+}
+.first h4 {
+  font-size: 1rem;
+  color: #FFF;
+}
+
+.menu {
+  background: #F3F2EE;
+}
+.menu i {
+  margin-right: 7rem;
+}
+
+.collapse ul li {
+  margin-right: 20px;
+  padding-left: 20px;
+}
+.collapse ul li button {
+  background-color: #DA291C;
+  border: none;
+  border-radius: 8px;
+}
+
+.info {
+  background-color: #4A4F53;
+  margin: 90px;
+}
+.info u {
+  color: #F2A900;
+}
+.info h2 {
+  font-size: 1.2rem;
+}
+.info h3 {
+  font-size: 1rem;
+}
+
+.kids img {
+  height: auto;
+  width: 311px;
+  margin-top: 10px;
+  margin-left: 30px;
+  margin-right: 50px;
+}
+.kids h2 {
+  font-size: 1.4rem;
+  margin-right: 50px;
+  margin-left: 30px;
+  font-weight: 500;
+}
+.kids button {
+  margin-right: 50px;
+  margin-left: 30px;
+  margin-top: 10px;
+  background-color: #009CA6;
+  border: none;
+  border-radius: 5px;
+}
+
+.contact {
+  margin-top: 50px;
+}
+.contact h1 {
+  margin-left: 5rem;
+}
+.contact button {
+  margin-top: 1.9rem;
+  background: #009CA6;
+  font-weight: 600;
+  width: 120px;
+  margin-left: 1rem;
+}
+
+.about-us button {
+  margin-top: 1.9rem;
+  background: #DA291C;
+  font-weight: 600;
+  width: auto;
+  margin-left: 1rem;
+  border: none;
+  border-radius: 4px;
+}
+
+.money h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.money h3 {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.donate-form {
+  background-image: url("../img/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  height: auto;
+}
+
+.contain {
+  background-color: #FFF;
+  margin-top: 60px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+.contain h1 {
+  font-size: 2.3rem;
+  font-weight: 700;
+  padding-top: 30px;
+  padding-left: 10px;
+}
+.contain h3 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-left: 10px;
+}
+
+.amount {
+  background: #F1F0EB;
+}
+.amount button {
+  margin-right: 5px;
+  margin-top: 10px;
+  background-color: #D1CCBD;
+  color: #000;
+  font-weight: 500;
+  font-size: 1.5rem;
+  border: none;
+}
+
+.submit button {
+  margin-right: 5px;
+  margin-top: 10px;
+  background-color: #DA291C;
+  color: #000;
+  font-weight: 500;
+  font-size: 1.5rem;
+  border: none;
+  padding: 0 90px;
+}
+
+footer {
+  background-color: #4A4F53;
+  color: #dedddd;
+}
+footer h2 {
+  font-size: 1rem;
+  margin-top: 30px;
+  font-weight: 400;
+}
+footer span {
+  font-weight: 700;
+}
+footer hr {
+  border-top: 1px solid #FFF;
+}
+
+/*# sourceMappingURL=style.css.map */
